@@ -16,7 +16,7 @@ display: flex;
 
 
 @import url("./estilo.css");
-
+@import url(".etilos/banner.css");
 
 :root {
 
