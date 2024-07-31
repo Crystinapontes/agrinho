@@ -12,11 +12,11 @@
 
 body{
      background-color:var(--cor-de-fundo);
-    color:#25874C;
+        color:#25874C;
 }
 .cabecalho{
 background-color: var(--cor-de-fundo);
-color: #25874C;
+color: #0d0f0e;
 font-size: 18px;
 display: flex;
 
