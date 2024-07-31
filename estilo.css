@@ -1,6 +1,25 @@
 
 
 
+
+
+
+@import url("./estilo.css");
+@import url(".etilos/banner.css");
+
+:root {
+    
+    --cor-de-fundo: #25874C;
+    --cor-da-fonte:#fffdfd;
+    --cor-fonte-titulo:#ffffff;
+}
+
+
+
+body{
+     background-color:var(--cor-de-fundo);
+    color:#25874C;
+}
 .cabecalho{
 background-color: var(--cor-de-fundo);
 color: #25874C;
@@ -12,26 +31,8 @@ display: flex;
 
 
 
-
-
-
-@import url("./estilo.css");
-@import url(".etilos/banner.css");
-
-:root {
-
---cor-de-fundo: #25874C;
---cor-da-fonte:#fffdfd;
---cor-fonte-titulo:#ffffff;
-}
-
-
-
-body{ background-color:var(--cor-de-fundo);
-color:#25874C;
-
 .cabecalho-menu-hamburguer{ 
-height: 10px;
+height: 10px;    
 width:  10px;
 
 
