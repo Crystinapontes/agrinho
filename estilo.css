@@ -36,9 +36,13 @@ background-image: url();
 
 
 }
-width:25px;
-height:25px;
+.casinha{
+    width: 10px;
+    height: 10px;
 
+
+
+}
 
 
 
