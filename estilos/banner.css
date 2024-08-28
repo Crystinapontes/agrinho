@@ -1,0 +1,15 @@
+.banner-img{
+    margin: 10px;
+    width: 80px;
+
+
+
+}
+
+@media (min-width:1024px){
+    .bannner-img{ }
+
+    
+
+
+}
