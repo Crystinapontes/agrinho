@@ -53,6 +53,9 @@ text-align: center;
     .container{
         display: none;
     }
+    .casinha{
+        width: 2000px;
+    }
 }
 
 
