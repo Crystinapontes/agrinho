@@ -26,7 +26,11 @@ display: flex;
     width: 60px;
     height: 60px;
 }
+.banner{
+width: 100px;
+height: 100px;
 
+}
 
 .rodape{
     margin-top: 25px;
