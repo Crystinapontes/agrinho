@@ -22,20 +22,12 @@ display: flex;
 
 
 }
-
-
-.cabecalho-menu-hamburguer{ 
-height: 3px;    
-width:  3px;
-
-
-
-background-image: url();
-
-
-
-
+.casinha{
+    width: 100px;
+    height: 100px;
 }
+
+
 .rodape{
     margin-top: 25px;
 background-color: #04ce55;
