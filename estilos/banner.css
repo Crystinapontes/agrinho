@@ -7,7 +7,14 @@
 }
 
 @media (min-width:1024px){
-    .bannner-img{ }
+    .bannner-img{
+width: 1350px;
+
+     }
+     .subtítulo{
+fomt: size 100px;
+
+     }
 
     
 
